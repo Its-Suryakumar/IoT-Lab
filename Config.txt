@@ -1,0 +1,5 @@
+Open "C:\Users\surya\.node-red\node_modules\node-red-contrib-machine-learning-v2\nodes\assessment"
+Open assessment.py and change the file:
+
+Open "C:\Users\surya\.node-red\node_modules\node-red-contrib-machine-learning-v2\utils"
+Open utils.js and change the file
